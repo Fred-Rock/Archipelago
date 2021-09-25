@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0239c2090d8abe4babcaf53314e2dbe, type: 3}
+  m_Name: so_GenericDialogueList
+  m_EditorClassIdentifier: 
+  dialogueArrayList:
+  - dialogueArray:
+    - Hey, nice to meet you... I guess
+    - You still standing here
+    - Umm....
+    - Take the hint
+    - LEAVE ME ALONE!
+  - dialogueArray:
+    - Hey there
+    - I got nothing to talk about, honestly
+    - Just vibing
+  - dialogueArray:
+    - What's up?
+  - dialogueArray:
+    - There are some items hidden around here
+    - If you find any, you can sell them for money
+    - You won't get rich, but it beats working
+  - dialogueArray:
+    - Nice day, isn't it?
+  - dialogueArray:
+    - You new around here?
+    - New to me at least, ha ha!
+  - dialogueArray:
+    - Way too hot today
+    - Wish I had a cold soda
+  - dialogueArray:
+    - ??!!??!?
+    - Sorry, you startled me
+  - dialogueArray:
+    - No way will you ever see me in a boat on the open sea
+    - I never learned to swim
+    - Or surf for that matter...
